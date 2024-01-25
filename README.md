@@ -7,6 +7,7 @@
 ### 🚀 Bronze
 | 문제번호 | 링크 |
 | ----- | ----- |
+|1000. A＋B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1000.%E2%80%85A%EF%BC%8BB/A%EF%BC%8BB.py)|
 |10093. 숫자|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10093.%E2%80%85%EC%88%AB%EC%9E%90/%EC%88%AB%EC%9E%90.c)|
 |1032. 명령 프롬프트|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1032.%E2%80%85%EB%AA%85%EB%A0%B9%E2%80%85%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/README.md)|
 |1037. 약수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1037.%E2%80%85%EC%95%BD%EC%88%98/%EC%95%BD%EC%88%98.cc)|
