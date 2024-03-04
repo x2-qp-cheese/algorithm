@@ -24,14 +24,14 @@ int main(){
     }
 
     for(int i = 1; i <=6; i++){
-        if(m[i]%2)
-            count+=(m[i]/2+1);
+        if(m[i]%k)
+            count+=(m[i]/k+1);
         else
-            count+=m[i]/2;
-        if(f[i]%2)
-            count+=(f[i]/2+1);
+            count+=m[i]/k;
+        if(f[i]%k)
+            count+=(f[i]/k+1);
         else
-            count+=f[i]/2;
+            count+=f[i]/k;
     }
 
     cout << count;
