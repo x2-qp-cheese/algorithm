@@ -70,6 +70,7 @@
 ### 🚀 Silver
 | 문제번호 | 링크 |
 | ----- | ----- |
+|1021. 회전하는 큐|[링크](./%EB%B0%B1%EC%A4%80/Silver/1021.%E2%80%85%ED%9A%8C%EC%A0%84%ED%95%98%EB%8A%94%E2%80%85%ED%81%90/README.md)|
 |10211. Maximum Subarray|[링크](./%EB%B0%B1%EC%A4%80/Silver/10211.%E2%80%85Maximum%E2%80%85Subarray/README.md)|
 |1026. 보물|[링크](./%EB%B0%B1%EC%A4%80/Silver/1026.%E2%80%85%EB%B3%B4%EB%AC%BC/README.md)|
 |10815. 숫자 카드|[링크](./%EB%B0%B1%EC%A4%80/Silver/10815.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%B9%B4%EB%93%9C/README.md)|
